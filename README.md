@@ -1,6 +1,4 @@
 # policy
-This application uses the device location to retrieve weather
-information along a travel route.
-No personal data is stored on our servers or shared with third parties.
-The location data is only used temporarily within the app to calculate routes and weather forecasts.
-No analytics, tracking, or advertising identifiers are collected.
+This application uses your device location to provide weather forecasts along your travel route. Your location and destination are only used within the app to calculate routes and weather.
+
+If you choose to open a route in Google Maps, Waze, or another navigation app, your location and destination may be shared with that app. We do not store, track, or share this information ourselves. No analytics, advertising identifiers, or other personal data are collected by this app.
